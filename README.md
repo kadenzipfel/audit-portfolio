@@ -1,6 +1,6 @@
 ## Book an Audit
 
-If you'd like to get in touch to receive a quote for an audit, you can contact me on [twitter](https://twitter.com/0xKaden) or send me an [email](mailto:kadenzipfel@gmail.com).
+If you'd like to get in touch to receive a quote for an audit, you can contact me on [twitter](https://twitter.com/0xKaden).
 
 ## Audit Reports
 
