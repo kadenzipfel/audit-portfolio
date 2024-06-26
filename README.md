@@ -6,6 +6,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 
 | Report                                                                                                | Project Type          | Date             |
 |-------------------------------------------------------------------------------------------------------|-----------------------|------------------|
+| [ MACIQF ]( ./maciqf-audit-report-final.pdf )                                   | Quadratic Funding  | June 14th, 2024    |
 | [ DirectGrantsLite ]( ./direct-grants-lite-audit-report-final.pdf )                                   | Public Goods Funding  | May 6th, 2024    |
 | [ Squid Router ]( ./squid-router-audit-report-final.pdf )                                             | Cross-Chain Messaging | May 1st, 2024    |
 | [ Marginal DAO (Cantina Managed) ]( https://cdn.cantina.xyz/reports/cantina_solo_marginal_dao_apr2024.pdf )             | Staking               | April 23rd, 2024 |
