@@ -21,4 +21,5 @@ See my [Sherlock](https://audits.sherlock.xyz/watson/0xkaden) and [Code4rena](ht
 
 ## Bug Bounties
 
-- [Disclosed a high severity bug in the NFTX protocol](https://x.com/0xKaden/status/1795834126584688747)
+- [Disclosed a high severity finding in the NFTX protocol (Immunefi)](https://x.com/0xKaden/status/1795834126584688747)
+- Disclosed a high severity finding in the SpookySwap protocol (Immunefi)
