@@ -22,6 +22,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - [Disclosed a critical severity finding in Zora's ERC20Z contract](https://x.com/0xKaden/status/1856784539978444827)
 - [Disclosed a high severity finding in the NFTX protocol (Immunefi)](https://x.com/0xKaden/status/1795834126584688747)
 - Disclosed a high severity finding in the SpookySwap protocol (Immunefi)
+- Disclosed a critical severity finding in the LandX protocol (Immunefi)
 
 ## Competitive Audits
 
