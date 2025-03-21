@@ -7,6 +7,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[Solady (Spearbit)](https://github.com/spearbit/portfolio/blob/master/pdfs/Solady-Coinbase-Spearbit-Security-Review-December-2024.pdf):** Optimized solidity snippets.
 - **[MACIQF]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/maciqf-audit-report-final.pdf ):** Anti collusion quadratic funding mechanism initially proposed by Vitalik. Several significant and unique vulnerabilities discovered.
 - **[Uniswap X (Spearbit)](https://github.com/spearbit/portfolio/blob/master/pdfs/Uniswapx-Spearbit-Security-Review-July-2024.pdf):** Non-custodial trading structure that leverages Dutch auctions.
+- **[V4 Router](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/v4-router-audit-final.pdf):** Uniswap v4 swap router with an ABI inspired by UniswapV2Router02.
 - **[Squid Router]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/squid-router-audit-report-final.pdf ):** Multi-chain liquidity and messaging router. Unique encoding issue discovered.
 - **[Eggs (Cantina Managed)](https://cantina.xyz/portfolio/eeda9a4d-2065-4ea6-a3f1-b22e36beef3c):** Money market protocol built on the Sonic blockchain.
 - **[Mellow Finance (Cantina Managed)]( https://cdn.cantina.xyz/reports/cantina_mellow_apr2024.pdf ):** Permissionless vaults for capital efficient liquidity allocation. Team audit with many notable findings.
