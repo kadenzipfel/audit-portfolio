@@ -30,5 +30,5 @@ And many more...
 ## Competitive Audits
 
 - [1st place in Sorella Angstrom](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940/leaderboard)
-- [2nd in place in Ajna #2](https://audits.sherlock.xyz/contests/114/leaderboard)
+- [2nd place in Ajna #2](https://audits.sherlock.xyz/contests/114/leaderboard)
 - [3rd place in Allo V2](https://audits.sherlock.xyz/contests/109/leaderboard)
