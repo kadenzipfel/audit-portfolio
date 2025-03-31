@@ -6,6 +6,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 
 - **[Solady](https://github.com/spearbit/portfolio/blob/master/pdfs/Solady-Coinbase-Spearbit-Security-Review-December-2024.pdf):** Optimized solidity snippets.
 - **[Uniswap X](https://github.com/spearbit/portfolio/blob/master/pdfs/Uniswapx-Spearbit-Security-Review-July-2024.pdf):** Non-custodial trading structure that leverages Dutch auctions.
+- **[Account Abstraction](https://github.com/eth-infinitism/account-abstraction/blob/develop/audits/SpearBit%20Account%20Abstraction%20Security%20Review%20-%20Mar%202024.pdf):** Review of ERC-4337 and ERC-7562 proposals and implementations for the Ethereum Foundation.
 - **[MACIQF]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/maciqf-audit-report-final.pdf ):** Anti collusion quadratic funding mechanism initially proposed by Vitalik. Several significant and unique vulnerabilities discovered.
 - **[V4 Swap Router](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/v4-router-audit-final.pdf):** Uniswap v4 swap router with an ABI inspired by UniswapV2Router02.
 - **[Squid Router]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/squid-router-audit-report-final.pdf ):** Multi-chain liquidity and messaging router. Unique encoding issue discovered.
