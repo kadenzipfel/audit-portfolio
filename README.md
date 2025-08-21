@@ -11,6 +11,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[MACIQF]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/maciqf-audit-report-final.pdf ):** Anti collusion quadratic funding mechanism initially proposed by Vitalik.
 - **[V4 Swap Router](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/v4-router-audit-final.pdf):** Uniswap v4 swap router with an ABI inspired by UniswapV2Router02.
 - **[Squid Router]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/squid-router-audit-report-final.pdf ):** Multi-chain liquidity and messaging router.
+- **[Stackup Keystore](https://github.com/spearbit/portfolio/blob/master/pdfs/Stackup-Spearbit-Security-Review-July-2025.pdf):** Smart accounts with scalable configuration.
 - **[Berachain PoL](https://github.com/spearbit/portfolio/blob/master/pdfs/Berachain-Pol-Spearbit-Security-Review-October-2024.pdf):** Proof of liquidity mechanism for EVM-identical  L1 chain.
 - **[Charm Alpha Vaults](https://cantina.xyz/portfolio/8136772e-2dd4-443e-99c1-5f96011a972c) :** Decentralized liquidity vaults.
 - **[Eggs](https://cantina.xyz/portfolio/eeda9a4d-2065-4ea6-a3f1-b22e36beef3c):** Money market protocol built on the Sonic blockchain.
