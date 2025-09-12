@@ -31,6 +31,8 @@ And many more...
 - [Disclosed a high severity finding in the NFTX protocol (Immunefi)](https://x.com/0xKaden/status/1795834126584688747)
 - Disclosed a high severity finding in the SpookySwap protocol (Immunefi)
 - Disclosed a critical severity finding in the LandX protocol (Immunefi)
+- Disclosed a medium severity finding in an undisclosed AMM protocol
+- Disclosed a medium severity finding in an undisclosed bonding curve protocol
 
 ## Competitive Audits
 
