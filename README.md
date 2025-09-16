@@ -11,6 +11,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[MACIQF]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/maciqf-audit-report-final.pdf ):** Anti collusion quadratic funding mechanism initially proposed by Vitalik.
 - **[V4 Swap Router](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/v4-router-audit-final.pdf):** Uniswap v4 swap router with an ABI inspired by UniswapV2Router02.
 - **[Squid Router]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/squid-router-audit-report-final.pdf ):** Multi-chain liquidity and messaging router.
+- **[XSY UTYAsyncVault](https://cantina.xyz/portfolio/87d2bbe5-f6fa-4f69-ab34-f08395ccb63b):** Asynchronous ERC4626 vault.
 - **[Stackup Keystore](https://github.com/spearbit/portfolio/blob/master/pdfs/Stackup-Spearbit-Security-Review-July-2025.pdf):** Smart accounts with scalable configuration.
 - **[Berachain PoL](https://github.com/spearbit/portfolio/blob/master/pdfs/Berachain-Pol-Spearbit-Security-Review-October-2024.pdf):** Proof of liquidity mechanism for EVM-identical  L1 chain.
 - **[Charm Alpha Vaults](https://cantina.xyz/portfolio/8136772e-2dd4-443e-99c1-5f96011a972c) :** Decentralized liquidity vaults.
@@ -22,6 +23,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[EasyRetroPGF]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/easy-rpgf-audit-report-final.pdf ):** Retroactive public goods funding mechanism.
 - **[Goldsand](https://cantina.xyz/portfolio/15341393-eb38-49b1-acb1-ed2cbec6f73e):** Halal Lido alternative.
 - **[DirectGrantsSimpleStrategy and Permit PR]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/direct-grants-simple-audit-report-final.pdf ):** Grant allocation mechanism and added ERC2612 permit support.
+- **[SaucerSwap ERC20Wrapper](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/saucerswap_erc20_wrapper_final.pdf):** ERC20 wrapper contract.
 
 And many more...
 
@@ -33,6 +35,7 @@ And many more...
 - Disclosed a critical severity finding in the LandX protocol (Immunefi)
 - Disclosed a medium severity finding in an undisclosed AMM protocol
 - Disclosed a medium severity finding in an undisclosed bonding curve protocol
+- Disclosed a medium severity finding in an undisclosed token launch protocol
 
 ## Competitive Audits
 
