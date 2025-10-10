@@ -12,6 +12,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[V4 Swap Router](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/v4-router-audit-final.pdf):** Uniswap v4 swap router with an ABI inspired by UniswapV2Router02.
 - **[Squid Router]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/squid-router-audit-report-final.pdf ):** Multi-chain liquidity and messaging router.
 - **[XSY UTYAsyncVault](https://cantina.xyz/portfolio/87d2bbe5-f6fa-4f69-ab34-f08395ccb63b):** Asynchronous ERC4626 vault.
+- **[Monorail](https://github.com/zenith-security/reports/blob/main/reports/Monorail%20-%20Zenith%20Audit%20Report.pdf):** Monad-based swap aggregator.
 - **[Stackup Keystore](https://github.com/spearbit/portfolio/blob/master/pdfs/Stackup-Spearbit-Security-Review-July-2025.pdf):** Smart accounts with scalable configuration.
 - **[Berachain PoL](https://github.com/spearbit/portfolio/blob/master/pdfs/Berachain-Pol-Spearbit-Security-Review-October-2024.pdf):** Proof of liquidity mechanism for EVM-identical  L1 chain.
 - **[Charm Alpha Vaults](https://cantina.xyz/portfolio/8136772e-2dd4-443e-99c1-5f96011a972c) :** Decentralized liquidity vaults.
