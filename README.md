@@ -8,6 +8,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[Uniswap - The Compact](https://github.com/spearbit/portfolio/blob/master/pdfs/Uniswap-The-Compact-Spearbit-Security-Review-May-2025.pdf):** Ownerless intent protocol.
 - **[Uniswap X](https://github.com/spearbit/portfolio/blob/master/pdfs/Uniswapx-Spearbit-Security-Review-July-2024.pdf):** Non-custodial trading structure that leverages Dutch auctions.
 - **[Account Abstraction](https://github.com/eth-infinitism/account-abstraction/blob/develop/audits/SpearBit%20Account%20Abstraction%20Security%20Review%20-%20Mar%202025.pdf):** Review of ERC-4337 and ERC-7562 proposals and implementations for the Ethereum Foundation.
+- **[Uniswap - Continuous Clearing Auction](https://github.com/Uniswap/continuous-clearing-auction/blob/main/docs/audits/Spearbit_v1.0.0.pdf):** Liquidity bootstrapping auction protocol.
 - **[MACIQF]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/maciqf-audit-report-final.pdf ):** Anti collusion quadratic funding mechanism initially proposed by Vitalik.
 - **[V4 Swap Router](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/v4-router-audit-final.pdf):** Uniswap v4 swap router with an ABI inspired by UniswapV2Router02.
 - **[Squid Router]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/squid-router-audit-report-final.pdf ):** Multi-chain liquidity and messaging router.
@@ -15,7 +16,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[Monorail](https://github.com/zenith-security/reports/blob/main/reports/Monorail%20-%20Zenith%20Audit%20Report.pdf):** Monad-based swap aggregator.
 - **[Kintsu](https://cantina.xyz/portfolio/64a13fad-8b9f-4453-aa23-de92ba8621a4):** Composable liquid staking protocol.
 - **[Stackup Keystore](https://github.com/spearbit/portfolio/blob/master/pdfs/Stackup-Spearbit-Security-Review-July-2025.pdf):** Smart accounts with scalable configuration.
-- **[Berachain PoL](https://github.com/spearbit/portfolio/blob/master/pdfs/Berachain-Pol-Spearbit-Security-Review-October-2024.pdf):** Proof of liquidity mechanism for EVM-identical  L1 chain.
+- **[Berachain PoL](https://github.com/spearbit/portfolio/blob/master/pdfs/Berachain-Pol-Spearbit-Security-Review-October-2024.pdf):** Proof of liquidity mechanism for EVM-identical L1 chain.
 - **[Charm Alpha Vaults](https://cantina.xyz/portfolio/8136772e-2dd4-443e-99c1-5f96011a972c) :** Decentralized liquidity vaults.
 - **[Eggs](https://cantina.xyz/portfolio/eeda9a4d-2065-4ea6-a3f1-b22e36beef3c):** Money market protocol built on the Sonic blockchain.
 - **[Mellow Finance]( https://cdn.cantina.xyz/reports/cantina_mellow_apr2024.pdf ):** Permissionless vaults for capital efficient liquidity allocation.
@@ -26,8 +27,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - **[Goldsand](https://cantina.xyz/portfolio/15341393-eb38-49b1-acb1-ed2cbec6f73e):** Halal Lido alternative.
 - **[DirectGrantsSimpleStrategy and Permit PR]( https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/direct-grants-simple-audit-report-final.pdf ):** Grant allocation mechanism and added ERC2612 permit support.
 - **[SaucerSwap ERC20Wrapper](https://github.com/kadenzipfel/audit-portfolio/blob/main/reports/saucerswap_erc20_wrapper_final.pdf):** ERC20 wrapper contract.
-
-And many more...
+- **[Uniswap - CCA PR 252](https://github.com/Uniswap/continuous-clearing-auction/blob/main/docs/audits/Spearbit_Nov_11_2025.pdf):** Liquidity bootstrapping auction protocol PR review.
 
 ## Bug Bounties
 
