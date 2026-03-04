@@ -37,7 +37,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - Disclosed a critical severity finding in the LandX protocol (Immunefi)
 - Disclosed a medium severity finding in an undisclosed AMM protocol
 - Disclosed a medium severity finding in an undisclosed bonding curve protocol
-- Disclosed a medium severity finding in an undisclosed token launch protocol
+- Disclosed 2 medium severity findings in an undisclosed token launch protocol
 
 ## Competitive Audits
 
