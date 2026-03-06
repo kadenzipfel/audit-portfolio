@@ -36,7 +36,7 @@ If you'd like to get in touch to receive a quote for an audit, you can contact m
 - Disclosed a high severity finding in the SpookySwap protocol
 - Disclosed a critical severity finding in the LandX protocol
 - Disclosed a critical severity finding in the Stealthdrop protocol (circom)
-- Disclosed a critical severity finding in an undisclosed identify protocol (circom)
+- Disclosed a critical severity finding in an undisclosed identity protocol (circom)
 - Disclosed a medium severity finding in an undisclosed AMM protocol
 - Disclosed a medium severity finding in an undisclosed bonding curve protocol
 - Disclosed 2 medium severity findings in an undisclosed token launch protocol
